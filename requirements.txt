@@ -8,4 +8,6 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
--e .                 ##      It install ou lacal package such as Generative_AI_Projects
+-e .                 ##      It install our lacal system package such as Generative_AI_Projects-info
+
+chromadb
